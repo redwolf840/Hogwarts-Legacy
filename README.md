@@ -205,3 +205,6 @@ This repository serves as the official landing page for Hogwarts Legacy. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hogwarts Legacy today!**
+
+---
+**Last updated:** 2026-11-08 23:30:18 UTC
